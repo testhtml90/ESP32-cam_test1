@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.esp32-cam_1 {
+    text-align: center;
+}
+
+nav.class_nav li {
+    text-align: center;
+}
+
+.class_nav li {
+    margin-top: 50vh;
+    transform:translateY(-50%)
+}
